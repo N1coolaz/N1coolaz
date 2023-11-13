@@ -1,11 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif" />
 &nbsp;&nbsp;&nbsp;
 
-<H2 align="center""><strong>Future game developer 🎮.</strong></H2>&nbsp;
- 
- &nbsp;
- &nbsp;
-
+<H2 align="center""><strong>Systems Development Assistant.</strong></H2> <p>  Starting my way as a game developer.</p>&nbsp;
 
 ## My Skills
 
