@@ -16,7 +16,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-<img src="https://static.vecteezy.com/system/resources/previews/019/040/582/non_2x/an-8-bit-retro-styled-pixel-art-illustration-of-a-blood-bat-free-png.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 #### Secondary Stack:
 
@@ -52,6 +52,10 @@
 <div> 
 <a href="https://www.instagram.com/onicolazz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:contato.Nicolazlima15@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:Nicolazlima15@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nicolas-lima-92a420283/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+
+
+<img src="https://static.vecteezy.com/system/resources/previews/019/040/582/non_2x/an-8-bit-retro-styled-pixel-art-illustration-of-a-blood-bat-free-png.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
