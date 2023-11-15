@@ -1,3 +1,10 @@
+<div align = "Center">
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&background=FF0D4F00&center=true&vCenter=true&random=false&width=435&lines=Hello!;Welcome!" alt="Typing SVG" /></a>
+  
+</div>
+
+
 <img align="center" style="margin-bottom:100px" width=100% src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif" />
 &nbsp;&nbsp;&nbsp;
 
